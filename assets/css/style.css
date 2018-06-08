@@ -107,7 +107,7 @@ h1 {
 
 }
 
-img {
+.rotateimg {
     transform: rotate(90deg);
     float: left;
     }
@@ -126,4 +126,10 @@ a {
     text-align: center;
     font-size: 10px;
     padding-bottom: 3px;
+    }
+
+    img {
+
+        padding: 10px;
+        float: left;
     }
